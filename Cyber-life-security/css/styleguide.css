@@ -1,0 +1,177 @@
+:root { 
+  --bismark: #477086;
+  --black: #070000;
+  --black-2: #070303;
+  --black-3: #050202;
+  --blue-bayoux: #3f6283;
+  --boulder: #797b7c;
+  --cod-gray: #090505;
+  --cod-gray-2: #090404;
+  --dove-gray: #707070;
+  --gallery: #f0ecec;
+  --green-blue: #0c64b6;
+  --nobel: #b3afaf;
+  --turquoise-pearl: #33bbbb;
+  --white: #ffffff;
+ 
+  --font-size-l: 35px;
+  --font-size-m: 25px;
+  --font-size-s: 17px;
+  --font-size-xl: 50px;
+  --font-size-xs: 15px;
+  --font-size-xxs: 14px;
+  --font-size-xxxs: 12px;
+ 
+  --font-family-segoe_ui: "Segoe UI", Helvetica;
+  --font-family-segoeui-bold: "SegoeUI-Bold", Helvetica;
+  --font-family-segoeui-regular: "SegoeUI-Regular", Helvetica;
+}
+.segoeui-regular-normal-white-15px {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-bold-black-50px {
+  color: var(--black);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.segoeui-bold-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.segoeui-regular-normal-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-bold-cod-gray-17px {
+  color: var(--cod-gray);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.segoeui-regular-normal-black-25px {
+  color: var(--black);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-bold-white-35px {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.segoeui-regular-normal-black-14px {
+  color: var(--black-2);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-regular-normal-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-bold-black-25px {
+  color: var(--black);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.segoeui-bold-black-35px {
+  color: var(--black);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.segoeui-bold-white-10px {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.segoeui-bold-white-50px {
+  color: var(--white);
+  font-family: var(--font-family-segoe_ui);
+  font-size: var(--font-size-xl);
+}
+
+.segoeui-regular-normal-white-50px {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-bold-white-50px-2 {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.segoeui-regular-normal-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-xxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-bold-white-17px {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.segoeui-regular-normal-white-17px {
+  color: var(--white);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.segoeui-bold-black-10px {
+  color: var(--black-2);
+  font-family: var(--font-family-segoeui-bold);
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+}
